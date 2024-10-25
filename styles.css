@@ -1,3 +1,7 @@
 body {
   background-color: #b4c5e4;
 }
+h1   {
+    border-color: black;
+    border-width: 1px;
+}
