@@ -2,9 +2,5 @@ body {
   background-color: rgb(180, 197, 228);
 }
 h1   {
-    border-color: rgb(255, 255, 255);
-    border-width: thin;
-    border-style:dotted;
-    color:beige;
-    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
