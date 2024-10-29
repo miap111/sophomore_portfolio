@@ -25,5 +25,12 @@ ul {
 li a {
   display: block;
   width: 60px;
-  background-color: #dddddd;
+  background-color:#white;
+}
+img  {
+    float:center;
+    border-color: aliceblue;
+    border-width: 4px;
+    border-style: dotted;
+    height:100%
 }
