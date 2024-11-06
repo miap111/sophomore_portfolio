@@ -1,12 +1,10 @@
 body {
-  background-color: rgb(180, 197, 228);
+  background-color: rgb(12, 21, 24);
 }
 h1   {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color:aliceblue;
-}
-h2    {
+    color: rgb(237, 244, 246)
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: aliceblue;
