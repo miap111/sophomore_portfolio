@@ -18,9 +18,8 @@ p     {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-}
-    text-align: center;
-    color: aliceblue;
+  text-align: center;
+  color: aliceblue;
 }
 ul {
   list-style-type: none;
