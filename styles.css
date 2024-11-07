@@ -14,7 +14,11 @@ h2 {
     color: rgb(237, 244, 246)
 }
 p     {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
     text-align: center;
     color: aliceblue;
 }
