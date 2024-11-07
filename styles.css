@@ -35,7 +35,7 @@ li a {
   background-color:white;
 }
 img  {
-    float:right;
+    float:center;
     border-color: aliceblue;
     border-width: 6px;
     border-style: dotted;
