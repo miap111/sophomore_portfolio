@@ -10,7 +10,7 @@ h3 {text-align:center;
        text-decoration: none;
        font-family: courier new;
 }
-   a:visited {color: palevioletred;
+   a:visited {color: #db7093;
          background-color: transparent;
          text-decoration: none;
          font-family: courier new;
@@ -20,7 +20,7 @@ h3 {text-align:center;
      text-decoration: none;
      font-family: courier new;
 }
-   a:active {color: palevioletred;
+   a:active {color: #db7093;
      background-color: transparent;
      text-decoration: none;
      font-family: courier new;
@@ -29,11 +29,11 @@ h3 {text-align:center;
 img {border-style: solid;
      border-width: 2px;
      border-color: #ffffff;
-     width: 250px;
-     height: 250px;
+     width: 300px;
+     height: 300px;
 }
 .projectimages {
   display: flex;
    align-content: baseline;
-   justify-content: center;
+   justify-content: space-around;
 }
