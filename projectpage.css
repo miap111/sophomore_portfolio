@@ -5,12 +5,12 @@ h1 {text-align:center;}
 h3 {text-align:center;
    font-color: #db7093;
    }
-    a:link {color: palevioletred;
+    a:link {color: oldlace;
        background-color: transparent;
        text-decoration: none;
        font-family: courier new;
 }
-   a:visited {color: pink;
+   a:visited {color: palevioletred;
          background-color: transparent;
          text-decoration: none;
          font-family: courier new;
@@ -29,11 +29,11 @@ h3 {text-align:center;
 img {border-style: solid;
      border-width: 2px;
      border-color: #ffffff;
-     width: 150px;
-     height: 150px;
+     width: 250px;
+     height: 250px;
 }
 .projectimages {
   display: flex;
    align-content: baseline;
-   justify-content: space-between;
+   justify-content: center;
 }
