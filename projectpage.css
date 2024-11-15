@@ -1,6 +1,9 @@
 body {background-color: Thistle;}
 
-h1 {text-align:center;}
+h1 {text-align:center;
+   font-family: courier new;
+   font-color:#db7093;
+   }
 
 h3 {text-align:center;
    font-color: #db7093;
