@@ -11,3 +11,6 @@ img {border-style: solid;
      border-width: 2px;
      border-color: #ffffff;
 }
+.projectimages {
+  display: flex;
+}
