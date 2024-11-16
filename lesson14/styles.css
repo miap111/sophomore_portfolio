@@ -4,12 +4,13 @@ body {
   font-family: Verdana;
 }
 p2 {
-  font-family:verdana;
+  font-family: Verdana;
   color:red;
   text-align:center;
 }
 p {
   text-align:center;
+  font-family:courier new;
 }
 /* title and subtitle styles */
 h1 {
@@ -42,7 +43,7 @@ img {
   box-shadow: 2px 2px;
 }
 .comicpics {display:flex;
-  justify-content:space-around;
+  justify-content:space-between;
   width:240px;
   height:320px;
 }
