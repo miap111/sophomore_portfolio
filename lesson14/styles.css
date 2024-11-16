@@ -46,10 +46,22 @@ img {
 .storytelling {color:pink;
   display:flex;
   justify-content:center;}
-.protagonist {color:purple;}
-.infoprotagonist {color:orange;}
-.supportingcast {color:blue;}
-.panels {color:red;}
-.perspectives {color:green;}
-.lastimages {color:yellow;}
-.imagecitation {color:orchid;}
+.protagonist {color:purple;
+  display:flex;
+  justify-content:center;}
+.infoprotagonist {color:orange;
+  text-align:center;}
+.supportingcast {color:blue;
+  display:flex;
+  justify-content:center;}
+.panels {color:red;
+  display:flex;
+  justify-content:center;}
+.perspectives {color:green;
+  display:flex;
+  justify-content:center;}
+.lastimages {color:yellow;
+  display:flex;
+  justify-content:center;}
+.imagecitation {color:orchid;
+  text-align:center;}
