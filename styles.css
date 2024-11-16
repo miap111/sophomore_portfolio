@@ -58,7 +58,9 @@ img  {
     border-style: dotted;
     height:100%
 .images {
+  width:350px;
+  height:350px;
   display:flex;
   flex-wrap:wrap;
-  justify-content:space-between;
+  justify-content:space-around;
 }
