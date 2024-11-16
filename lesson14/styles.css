@@ -39,11 +39,13 @@ img {
   box-shadow: 2px 2px;
 }
 .comicpics {display:flex;
-  justify-content: space-between;
+  justify-content:space-around;
   width:240px;
   height:320px;
 }
-.storytelling {color:pink;}
+.storytelling {color:pink;
+  display:flex'
+  justify-content:center;}
 .protagonist {color:purple;}
 .infoprotagonist {color:orange;}
 .supportingcast {color:blue;}
