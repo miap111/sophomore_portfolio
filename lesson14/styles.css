@@ -39,7 +39,7 @@ img {
   box-shadow: 2px 2px;
 }
 .comicpics {display:flex;
-  justify-content: center;
+  justify-content: space-between;
   width:240px;
   height:320px;
 }
