@@ -35,6 +35,5 @@ img {
   box-shadow: 2px 2px;
 }
 .comicpics {display:flex;
-           justify-content:space-between;
-           width:240px;
-           height:320px;}
+  justify-content:space-between;
+}
