@@ -29,7 +29,8 @@ h3 {
 
 /* general image style  */
 img {
-  width: 300px;
+  width: 240px;
+  height: 320px;
   border-style: solid;
   border-color: #F4A261;
   box-shadow: 2px 2px;
