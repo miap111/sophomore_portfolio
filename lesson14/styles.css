@@ -3,7 +3,10 @@ body {
   color:#333333;
   font-family: Verdana;
 }
-
+p2 {
+  font-family:verdana;
+  color:red;
+}
 /* title and subtitle styles */
 h1 {
   text-align: center;
