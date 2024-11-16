@@ -2,7 +2,7 @@ body {background-color: Thistle;}
 
 h1 {text-align:center;
    font-family: courier new;
-   background-color: palevioletred;
+   color: palevioletred;
    font-size: 40px;
    }
 
@@ -43,6 +43,6 @@ img {border-style: solid;
    justify-content: space-around;
 }
 p {font-family: courier new;
-   font-color:oldlace;
+   color:oldlace;
    font-size:20px;
   }
