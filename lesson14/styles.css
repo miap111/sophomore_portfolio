@@ -34,3 +34,6 @@ img {
   border-style: solid;
   border-color: #F4A261;
   box-shadow: 2px 2px;
+}
+.comicpics {display:flex;
+           justify-content:space-between;}
