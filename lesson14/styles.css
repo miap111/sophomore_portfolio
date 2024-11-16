@@ -8,10 +8,6 @@ p2 {
   color:red;
   text-align:center;
 }
-p {
-  text-align:center;
-  font-family:courier new;
-}
 /* title and subtitle styles */
 h1 {
   text-align: center;
@@ -43,7 +39,7 @@ img {
   box-shadow: 2px 2px;
 }
 .comicpics {display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
   width:240px;
   height:320px;
 }
