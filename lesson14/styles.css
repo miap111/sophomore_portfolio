@@ -40,8 +40,6 @@ img {
 }
 .comicpics {display:flex;
   justify-content:space-evenly;
-  width:240px;
-  height:320px;
 }
 .storytelling {color:pink;
   display:flex;
