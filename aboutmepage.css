@@ -6,9 +6,11 @@ h1 {
   text-align:center;
 }
 p {
-  color:#c8e0f4;
+  color:white;
   text-align:center;
 }
+div{
+  text-align:center;
 ul {
   list-style-type: none;
   margin: 0;
